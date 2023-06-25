@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @safariwallet dev team
+- 👀 I’m interested in Engineering, Coding and Travel
+- 🌱 I’m currently learning technologies
+- 💞️ I’m looking to collaborate on Opensource
+- 📫 How to reach me yello at safariwallet dot com
